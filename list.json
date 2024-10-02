@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "Model1",
+      "si3d": true,
+      "id": "2390"
+    },
+    {
+      "name": "Model2",
+      "si3d": true,
+      "id": "2224"
+    },
+    {
+      "name": "Model3",
+      "si3d": true,
+      "id": "2067"
+    },
+    {
+      "name": "Model4",
+      "si3d": true,
+      "id": "2302"
+    },
+    {
+      "name": "blender",
+      "si3d": false,
+      "id": "blender"
+    },
+    {
+      "name": "chair",
+      "si3d": false,
+      "id": "chair"
+    },
+    {
+      "name": "chanel_watch",
+      "si3d": false,
+      "id": "chanel_watch"
+    },
+    {
+      "name": "Nespresso_Pixie",
+      "si3d": false,
+      "id": "Nespresso_Pixie"
+    },
+    {
+      "name": "Palazzina_Uffici",
+      "si3d": false,
+      "id": "Palazzina_Uffici"
+    },
+    {
+      "name": "shark",
+      "si3d": false,
+      "id": "shark"
+    },
+    {
+      "name": "Turbina_Fan_Engine",
+      "si3d": false,
+      "id": "Turbina_Fan_Engine"
+    }
+  ]
+}
